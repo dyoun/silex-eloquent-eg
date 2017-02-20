@@ -1,0 +1,4 @@
+var/cache/*
+vendor/*
+.DS_Store
+src/development.log
