@@ -1,3 +1,6 @@
+# Overview
+Simple example RESTful API created with [PHP Silex MVC framework](http://silex.sensiolabs.org/doc/2.0/usage.html) and [Eloquent ORM](https://laravel.com/docs/5.0/eloquent) for database models. City and Neighborhood models use different DBs, ie, City is located in st_cities.cities and Neighborhood is located in st_neighborhoods.neighborhoods.
+
 # Quickstart
 
 ## Environment Settings
