@@ -17,11 +17,11 @@
     "symfony/finder": "~2.8|3.0.*",
     "symfony/form": "~2.8|3.0.*",
     "symfony/monolog-bridge": "~2.8|3.0.*",
-    "symfony/process": "~2.8|3.0.*",
+    "symfony/process": "^5.4.51",
     "symfony/security": "~2.8|3.0.*",
     "symfony/translation": "~2.8|3.0.*",
     "symfony/twig-bridge": "~2.8|3.0.*",
-    "symfony/validator": "~2.8|3.0.*",
+    "symfony/validator": "^8.1.11",
     "jguyomard/silex-capsule-eloquent": "~2.0"
   },
   "autoload": {
